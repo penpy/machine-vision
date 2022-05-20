@@ -1,3 +1,3 @@
 # machine-vision
 
-Some neural networks trained with MNIST or CIFAR datasets
+Some neural networks trained with CIFAR datasets.
